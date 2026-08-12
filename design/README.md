@@ -2,7 +2,7 @@
 
 `ios-ui-concepts.html` is a self-contained design document for the financial coach
 app — open it in a browser, no build step or network access required. It covers
-eight screen mockups, the information architecture, the shared chart component,
+nine screen mockups, the information architecture, the shared chart component,
 platform surfaces outside the app, and the colour/type/motion system. Light and
 dark themes are both designed; the toggle sits bottom-right.
 
@@ -24,6 +24,7 @@ one signature chart, the Runway, reused at four sizes throughout.
 | Savings plan | "How can I save ₹5,000?" as a ranked, executable checklist |
 | Commitments | Subscriptions, EMIs, SIPs and mandates in one ranked list |
 | Household | Shared budgets and goals, with per-category privacy controls |
+| Goal detail | Auto-detected contributions awaiting confirmation, manual logging, and a direct override for the tracked total |
 | Health | Score composition and trend, not a dial |
 | Tax | Old/new regime comparison, 80C headroom, document checklist |
 
